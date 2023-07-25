@@ -1,0 +1,10 @@
+* cl-trie
+
+Common Lisp implementation of Trie data structure.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/MatthewRock/cl-trie.git   |
+| commit  | 14edddf  |
+| systems | cl-trie |
+|---------+-------------------------------------------|
+
